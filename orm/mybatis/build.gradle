@@ -1,5 +1,5 @@
 plugins {
-    id "io.freefair.lombok" version "5.3.3.3" // https://projectlombok.org/setup/gradle
+    id "io.freefair.lombok" version "6.2.0" // https://projectlombok.org/setup/gradle
     id 'org.springframework.boot'version "${springBootVersion}"
     id 'io.spring.dependency-management' version "${springDependencyManagement}"
     id 'java'
